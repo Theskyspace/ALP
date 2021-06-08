@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Instagram layout</string>
     <string name="stories">Stories</string>
+    <string name="instagram">Instagram</string>
+    <string name="post">post</string>
+
 </resources>
