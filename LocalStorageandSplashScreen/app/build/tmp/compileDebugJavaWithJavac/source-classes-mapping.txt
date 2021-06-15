@@ -1,0 +1,4 @@
+com/example/localstorageandsplashscreen/BuildConfig.java
+ com.example.localstorageandsplashscreen.BuildConfig
+com/example/localstorageandsplashscreen/MainActivity.java
+ com.example.localstorageandsplashscreen.MainActivity
